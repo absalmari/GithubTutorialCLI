@@ -6,4 +6,4 @@ The repository has been created by **ABDULLAH SAEED A S ABUSALAAH**, with studen
 
 As per the requirements of the lab, the following link provides access to the generated website:
 
-[MyWebsite.html](./index.html)
+[index.html](./index.html)
